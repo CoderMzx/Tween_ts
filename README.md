@@ -30,3 +30,7 @@ export default class Helloworld extends cc.Component {
 }
 
 ```
+
+---
+
+[参考文章](https://mp.weixin.qq.com/s/5vlb9SdHfriEDHz85NRMeQ)
